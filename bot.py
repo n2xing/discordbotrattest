@@ -202,7 +202,11 @@ async def help(ctx):
 
     await ctx.send(help_message)
 
-
+@bot.command()
+async def creator(ctx):
+    """fuck you"""
+    tm = "created orig by @n2x"
+    await ctx.send(tm)
 
 
 bot.run('BOT_TOKEN')
