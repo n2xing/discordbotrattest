@@ -1,5 +1,5 @@
 # discordbotrattest
-uh funny test bot thingy i made in like 20 minutes
+uh funny test bot thingy i made in like 20 minutes basically just runs code on the hosts pc lol
 # i am not responsible for the use of this 🖕
 ```
 !list: Shows running proccesses in a list
