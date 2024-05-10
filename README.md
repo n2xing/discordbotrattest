@@ -1,6 +1,6 @@
 # discordbotrattest
 uh funny test bot thingy i made in like 20 minutes
-dont ask for support
+# i am not responsible for the use of this 🖕
 ```
 !list: Shows running proccesses in a list
 !download: Allows you to download a file from the enemys computer
