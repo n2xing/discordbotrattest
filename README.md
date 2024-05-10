@@ -1,7 +1,7 @@
 # discordbotrattest
 uh funny test bot thingy i made in like 20 minutes
 dont ask for support
-
+```
 !list: Shows running proccesses in a list
 !download: Allows you to download a file from the enemys computer
 !ip: Shows ip address
@@ -14,3 +14,4 @@ dont ask for support
 !help: Shows this message
 !redirect: Redirects enemys computer to another website
 !files: Shows all files
+```
